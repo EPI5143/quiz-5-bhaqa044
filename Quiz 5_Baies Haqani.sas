@@ -60,9 +60,9 @@ run;
 
 
 *diabetes	Frequency	Percent		Cumulative		Cumulative
-									Frequency		Percent	
-	0		1898		95.81		1898			95.81
-	1		83			4.19		1981			100.00
+						Frequency		Percent	
+0		1898		95.81		1898			95.81
+1		83		4.19		1981			100.00
 
 
 83 (4.19%) admissions of diabetes were recorded between 2003-2004;
